@@ -27,7 +27,7 @@ Para o desenvolvimento deste projeto, foquei em práticas modernas de desenvolvi
 
 O site está hospedado via **GitHub Pages** e pode ser acessado através do link abaixo:
 
-[👉 Clique aqui para acessar o Guia de Leitura](https://valdirneto34.github.io/Projeto-Bridgerton/)
+👉 [Clique aqui para acessar o Guia de Leitura](https://valdirneto34.github.io/Projeto-Bridgerton/)
 
 ---
 
