@@ -35,7 +35,8 @@ O site está hospedado via **GitHub Pages** e pode ser acessado através do link
 
 1. Clone este repositório:
    ```bash
-   git clone [https://github.com/valdirneto34/Projeto-Bridgerton.git](https://github.com/valdirneto34/Projeto-Bridgerton.git)
+   git clone https://github.com/valdirneto34/Projeto-Bridgerton.git 
+   ```
 
 ---
 
