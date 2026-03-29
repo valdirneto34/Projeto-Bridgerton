@@ -42,8 +42,8 @@ O site está hospedado via **GitHub Pages** e pode ser acessado através do link
 
 ## 📖 Screenshots do Projeto
    <p align="center">
-        <img src="imagens/screenshot.png" width="600" alt="Screenshot Do Site">
+        <img src="imagens/screenshot.png" width="700" alt="Screenshot Do Site">
     </p>
    <p align="center">
-        <img src="imagens/screenshot2.png" width="600" alt="Screenshot Do Site">
+        <img src="imagens/screenshot2.png" width="700" alt="Screenshot Do Site">
     </p>
